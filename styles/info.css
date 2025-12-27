@@ -1,9 +1,17 @@
+.add-info-wrapper {
+    width: 100%;
+}
+
 .add-info {
     display: flex;
     flex-direction: column;
+    justify-content: center;
     align-items: center;
     padding: 40px;
     gap: 20px;
+    width: 80%;
+    margin: auto;
+    min-height: 500px;
 }
 
 h3 {
