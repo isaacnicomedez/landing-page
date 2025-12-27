@@ -1,6 +1,6 @@
 # Landing Page Project
 
-This is a simple HTML, CSS landing page design. You can [view it here](isaacnicomedez.github.io/landing-page).
+This is a simple HTML, CSS landing page design. You can [view it here](https://isaacnicomedez.github.io/landing-page/).
 
 This project forces me to get out of the comfort zone and began actually integrating learnings and internet skills to make use of flex property "toolbox" and manipulate the position and orientation of each elements in the webpage.
 
